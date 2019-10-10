@@ -1,0 +1,20 @@
+.card {
+    margin: 0 auto;
+    float: none;
+}
+
+section#feature {
+    background-color: #3b3b3b;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+section#background {
+	background-image: url("https://images.pexels.com/photos/853199/pexels-photo-853199.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	padding: 200px 0px;
+	color: white;
+	text-shadow: 2px 2px 2px #ccc;
+}
+
